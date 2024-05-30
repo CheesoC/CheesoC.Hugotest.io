@@ -1,2 +1,2 @@
-# CheesoC.Hugotest.io
+# Hugotest
 Medienmanagement Übung Test
